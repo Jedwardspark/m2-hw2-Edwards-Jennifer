@@ -10,7 +10,13 @@
 I've worked in content for a long, long time and am looking to aquire web skills. I'm also looking to grow as a person, 
 because this class is a risk for me. I know nothing about code and I sweat when I don't get an 'A.' 
 I'm hoping to learn Web skills, plus patience and grit. </p>
-<p> My Top Goals </p>
+<p> 
+<H1>My Top GoalsM/H1>
+1. Learn the basics of web design, including basic coding
+2. Flex and grow my reserves of patience, persistence, and humor
+3. Work toward a certificate in web design
+4. Graduate with my master's in mass communication from UF
+5. Put everything I learn to good use for our team </p>
 
 
 
