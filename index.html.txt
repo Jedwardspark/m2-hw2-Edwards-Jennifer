@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <body>
 <h1> Jennifer Edwards</h1>
-<h2> Web Content Editor, Health Journalist, Coastal Mom </hs>
-<h3> 285 Sunshine Drive, St. Augustine, Fla. 32086 </he>
+<h2> Web Content Editor, Health Journalist, Coastal Mom </h2>
+<h3> 285 Sunshine Drive, St. Augustine, Fla. 32086 </h3>
 <a href="https://www.flagler.edu/about/employee-directory/jennifer-m-edwards"></a>
 <img src="https://www.flagler.edu/about/employee-directory/jennifer-m-edwards" alt="https://www.flagler.edu/about/employee-directory/jennifer-m-edwards" width="480" height="480"> 
 
 <p> Hi, my name is Jennifer Edwards, and I'm a Web editor for a small, private college on Florida's East Coast. 
-I've worked in content for a long, long time and am looking to aquire web skills. I'm also looking to grow as a person, 
+I've worked in content for a long, long time and am looking to acquire web skills. I'm also looking to grow as a person, 
 because this class is a risk for me. I know nothing about code and I sweat when I don't get an 'A.' 
 I'm hoping to learn Web skills, plus patience and grit. </p>
 <p> 
-<H1>My Top GoalsM/H1>
+<H1>My Top Goals </H1>
 1. Learn the basics of web design, including basic coding
 2. Flex and grow my reserves of patience, persistence, and humor
 3. Work toward a certificate in web design
